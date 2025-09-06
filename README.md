@@ -42,8 +42,6 @@ separados (¡no deben comprimirse!):
 * Fichero de notebook relleno, con el nombre `actividad_spark.ipynb` (sin cambiarle el nombre al archivo)
 * Fichero `test_ingesta.py` relleno, con los tests unitarios.
 
-El fichero de entrada forma parte del fichero `flights_json.zip` que hay en la sección principal del curso (no está
-en la sección de Documentación ni en el foro). Los ficheros JSON concretos que se vayan a utilizar como ficheros de
-entrada deben ser subidos al contenedor de ADLS del alumno, y su ruta debe estar indicada en las variables 
-`path_json_primer_dia` y `path_json_segundo_dia` del notebook.
+Los ficheros JSON  que se vayan a utilizar como ficheros de entrada deben ser subidos al contenedor de ADLS 
+y su ruta debe estar indicada en las variables `path_json_primer_dia` y `path_json_segundo_dia` del notebook.
 
